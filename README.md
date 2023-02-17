@@ -2,9 +2,6 @@
 
 I'm a senior web & mobile developer.
 <a href="https://app.daily.dev/angeljerry0047"><img src="https://api.daily.dev/devcards/b32a63edf66647c1a635050bd0709ff8.png?r=w8n" width="400" alt="Angel Jerry's Dev Card"/></a>
-### :fire: My Stats :
-[![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=angeljerry0047)](https://git.io/streak-stats)
-### Skills
 
 - Backend
 
